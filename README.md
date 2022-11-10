@@ -14,9 +14,9 @@
 <hr></hr>
 ## My Projects
 
-* [TO-Do-list](https://progress2002.github.io/To-Do-List/dist/), A To-Do-list App built with: HTML|CSS|Webpack|JavaScript
+* [TO-Do-list](https://progress2002.github.io/To-Do-List/dist/), This is an app that allows users to keep recrd of activities they intend doing built with: HTML|CSS|Webpack|JavaScript
 * [Awesome bks](https://progress2002.github.io/awesome-book/), A single page application used to store name and author of various books. tools: JavaScript|HTML|CSS
-* [Quote generator](https://progress2002.github.io/Js-Quote-Generator/), A Famouse Quote generating app. languages used: HTML|CSS|JavaScript.
+* [Quote generator](https://progress2002.github.io/Js-Quote-Generator/), This app generates multiple famouse quotes on button click. languages used: HTML|CSS|JavaScript.
 
 And see more projects on this GitHub profile!
 <hr></hr>
