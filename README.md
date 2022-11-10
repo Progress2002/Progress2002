@@ -28,10 +28,10 @@
 
 <hr></hr>
 
-<div display="flex" gap="10px">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progress2002&show_icons=true&locale=en&layout=compact" alt="progress2002" />   </p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progress2002&show_icons=true&locale=en" alt="progress2002" /></p>
+<h2 align ="left">GitHub Stats</h2>
+<div>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progress2002&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=progress2002&show_icons=true&theme=nightowl&count_private=true"/>
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progress2002&" alt="progress2002" /></p>
+
