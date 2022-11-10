@@ -11,6 +11,16 @@
 
 <p align="left"> <a href="https://twitter.com/progress_2002" target="blank"><img src="https://img.shields.io/twitter/follow/progress_2002?logo=twitter&style=for-the-badge" alt="progress_2002" /></a> </p>
 
+<hr></hr>
+## My Projects
+
+* [TO-Do-list](https://progress2002.github.io/To-Do-List/dist/), A To-Do-list App built with: HTML|CSS|Webpack|JavaScript
+* [Awesome bks](https://progress2002.github.io/awesome-book/), A single page application used to store name and author of various books. tools: JavaScript|HTML|CSS
+* [Quote generator](https://progress2002.github.io/Js-Quote-Generator/), A Famouse Quote generating app. languages used: HTML|CSS|JavaScript.
+
+And see more projects on this GitHub profile!
+<hr></hr>
+
 - ✨ Interests: coding, swimming, music and eating 😆.
 - 🌱 I’m currently learning **Ruby on Rails, React** and working on side projects. 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
