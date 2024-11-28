@@ -1,15 +1,11 @@
 <h1 align="left">Hi 👋, I'm Progress</h1>
 
-<div >
-  <img align="center" src="./profile.png" alt="banner that says Progress Ezeamaka - Software Developer">
-</div>
-
 <h3 align="center">A passionate 💻Software developer from Nigeria</h3>                                                                                                                                              
 <hr></hr>
 
-- ✨ Interests: coding, swimming, music and eating 😆.
-- 🌱 I’m currently learning **Ruby on Rails, React** and working on side projects. 
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- ✨ *Interests*: I’m passionate about coding and building impactful projects. When I’m not at my desk, you’ll probably find me swimming, exploring new music, or indulging in delicious meals (I never say no to good food! 😄).
+- 🌱 *Currently Improving*: I’m diving into exciting side projects to sharpen my skills and explore innovative ideas. I enjoy challenging myself with new technologies and solving complex problems creatively.
+- 🌟 *Fun Fact*: I believe coding is like swimming — you dive in, navigate through challenges, and emerge stronger with every stroke (or line of code!).
 
 <hr></hr>
 
